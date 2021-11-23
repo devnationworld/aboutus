@@ -26,3 +26,9 @@ You can check out our current job opportunities [here.](https://www.slashdatacul
 
 [Our blog.](https://www.developernation.net/blog) Analysis, tips, tools and more.
 
+# Latest
+
+[State of the Developer Nation 21st Edition - Q3 2021.](https://www.developernation.net/resources/reports/state-of-the-developer-nation-q3-2021?utm_medium=github&utm_source=github&utm_campaign=aboutus&utm_content=latest) Our free report is now available.
+
+[Pulse Report.](https://www.developernation.net/developer-reports/dn21?utm_medium=github&utm_source=github&utm_campaign=aboutus&utm_content=latest) Introducing our Q3 2021 Pulse Report.
+

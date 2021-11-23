@@ -1,6 +1,5 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/devnationworld?style=social)
-
-  
+ 
   
 # About
 
@@ -14,5 +13,16 @@ Our mission is to champion a global collective of software creators who are conf
 
 # Join us
 
+You can check out our current job opportunities [here.](https://www.slashdataculture.co/working-at-slashdata)
+
 # Resources
+[Developer resources, tools, humour and events.](https://github.com/devnationworld/resources) You'll find links to resources we share in our newsletter.
+
+[Developer Nation newsletter.](https://github.com/devnationworld/developer-newsletter) We've recently started sharing our newletter editions on GitHub.
+
+[Research Reports.](https://www.developernation.net/resources/reports) Our free research reports give you the most interesting insights from each of our research waves, helping you keep the pulse on the latest developments.
+
+[Developer Trends.](https://www.developernation.net/resources/graphs) View global average data trends on major development areas, formed by using data from software creators like you who participated in our global surveys. 
+
+[Our blog.](https://www.developernation.net/blog) Analysis, tips, tools and more.
 

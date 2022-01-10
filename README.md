@@ -18,7 +18,7 @@ You can check out our current job opportunities [here.](https://www.slashdatacul
 # Resources
 [Developer resources, tools, humour and events.](https://github.com/devnationworld/resources) You'll find links to resources we share in our newsletter.
 
-[Developer Nation newsletter.](https://github.com/devnationworld/developer-newsletter) We've recently started sharing our newletter editions on GitHub.
+[Developer Nation newsletter.](https://github.com/devnationworld/developer-newsletter) We've recently started sharing our newletter editions on GitHub. [Join the conversations with fellow subscribers.](https://github.com/devnationworld/developer-newsletter/discussions)
 
 [Research Reports.](https://www.developernation.net/resources/reports) Our free research reports give you the most interesting insights from each of our research waves, helping you keep the pulse on the latest developments.
 
